@@ -1,4 +1,4 @@
-Here are some details on the different files in this repository:
+Here are the functions of each file in this repository:
 
 Sorter.java - Establishes the sorter interface, which is used by all three sorting programs.
 
